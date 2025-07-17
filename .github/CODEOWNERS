@@ -1,0 +1,7 @@
+# Give backend team control over backend/
+
+backend/ @UnexpectedFeatures/Backshots
+
+# Give frontend team control over frontend/
+
+frontend/ @UnexpectedFeatures/Frontshots
